@@ -1,0 +1,20 @@
+/*
+-  Web is essentially an system in which different data, resources and documents are interconnected ,
+   and these interconnected resources can be accessed with the help of internet.
+-  Web is smaller entity wich belongs to an higher/bigger  entity which is internet; thus web is subset of internet for anolgy sake,
+   thus internet possess many services and product among them one service is web. 
+- web development can be divided into 2 major chunk - 
+     1) website - which largely contains static contents 
+                - and possess read-only format and it doesnt has or minimal  per user interaction ; for example wikipedia page and blogs etc.
+     2) webapp- an application/webpage which is dynamic , in which user can iteract  with it and it may change as per user interaction example
+       feed of linkedIn, youtube, instagram etc , which will change based on user interaction . ( also by refreshing for eg)
+- Main Layers of web application (for full stack)
+                         - Frontend- deals with user interface or visual apperance of webpage which can be created with help of HTML, CSS and JavaScript + React.
+                         - Backend- It is essentially the brain of webapp where functionalities and main logic is defined 
+                         - Database- SQL AND NoSQL
+*/
+                         
+          
+     
+    
+ 
