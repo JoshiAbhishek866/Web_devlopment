@@ -1,2 +1,34 @@
 /*
-Internet stands for interconnected networks (of different devices)
+- Internet stands for interconnected networks (of different devices) or it is network of networks.
+ - Generally we think that client directly requests to server , but its not like that practically the clients request goes to ISP(INternet Service Provider) and 
+    then ISP passess that req of client to server.
+ - Practically, there are also division among the ISP, eg. first client sends req to local ISP , If it doesnt know , it paasesss req to regioonal ISP , again it doesnt
+   have its idea req is sent to national ISP and finally it has address of server , so it passess to desired server.
+ - same concept applies to the router , asdata packet has destination address in it , routing table asks whether it know that address or not by accessing in its routing
+   table and if it doesnt then it passess to its parent router to continue further procedure of transmission of data.
+  - for req , eg. when we write any domain name eg -"www.google.com" the DNS (domain name system) uses its dns tree structure to convert domain name into ip address
+    and then this ip is passed to different level of ISP and essentially to server.
+    
+    
+    
+ Extra:
+Topic: How the Internet Works
+
+Brief History:
+In the 1960s, a renowned network called ARPANET emerged. ARPANET introduced the concept of sharing data from a source machine to a destination machine in the form of packets.
+By the 1980s, the Domain Name System (DNS) was developed. DNS played a crucial role in transforming domain names into IP addresses, enabling easier communication between machines.
+During the 1990s, significant advancements occurred, such as the development of email services like Gmail, messaging platforms, and online shopping capabilities.
+The year 2000 witnessed the birth of Facebook, a groundbreaking social networking platform.
+Today, the internet has become an invaluable part of our lives. It is challenging to imagine a world without internet connectivity.
+
+Understanding Data Transmission:
+When we intend to share data from a source machine to a destination machine, the primary requirement is knowledge of the destination machine's IP address. Without the IP address, the source machine cannot establish communication with the destination machine.
+Role of Internet Service Providers (ISPs):
+Internet access is facilitated through Internet Service Providers (ISPs). To access the internet, clients cannot directly connect but instead send requests to their ISPs, which act as intermediaries and provide access to the internet.
+
+Packets:
+Data sent from the source machine to the destination machine is divided into small units or chunks known as packets. These packets make data transmission more efficient and reliable.
+
+Protocols:
+Protocols are sets of rules that govern communication between devices. One such protocol is the Simple Mail Transfer
+
