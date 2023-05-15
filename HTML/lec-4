@@ -1,0 +1,12 @@
+/*
+HTML - Hypertext Markup language
+HTML is used labelling purpose or to provide description of defined  structure , essentially html says what will the website possess , (it defines its header poetion , pragraph portion , image portion etc , it can be said html defines schema of website portion like a skeleton to the body
+CSS- does styling of different portion and essentially it handles the appearance 
+Js- it is the real brain of any website , it defines the logic of the functionality
+
+Code:
+-  <!DOCTYPE HTML> => means HTML5 is used here
+-  <html> => is a tag
+-  <html> ... <html> => this whole identity is an element
+
+*/
