@@ -7,6 +7,7 @@ Js- it is the real brain of any website , it defines the logic of the functional
 Code:
 -  <!DOCTYPE HTML> => means HTML5 is used here
 -  <html> => is a tag
--  <html> ... <html> => this whole identity is an element
-
+-  <html> ... <html> => this whole identity is an element, thus <html>....<html> is also called as root element
+-  <head> ....<head> => possess metadata/SEO/title
+-  <body> ....<body> whole description , labelling  and structure of website defined here
 */
